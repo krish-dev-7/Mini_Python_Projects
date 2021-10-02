@@ -28,3 +28,5 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+Name: [Krishna Sundar](https://github.com/krish-dev-7)
+Place: TamilNadu, India
